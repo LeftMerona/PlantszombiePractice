@@ -1,0 +1,68 @@
+[
+  {
+    "id": 100,
+    "_name": "SunFlower",
+    "_image_name": 0,
+    "_cost": 50,
+    "_e_type": "Support",
+    "_attack_time": 10,
+    "_MaxHP": 7,
+    "_CurrentHP": 7,
+    "_RespawnTime": 15
+  },
+  {
+    "id": 101,
+    "_name": "Peashooter",
+    "_image_name": 1,
+    "_cost": 100,
+    "_e_type": "Shooter",
+    "_attack_time": 10,
+    "_MaxHP": 10,
+    "_CurrentHP": 10,
+    "_RespawnTime": 15
+  },
+  {
+    "id": 102,
+    "_name": "WallNut",
+    "_image_name": 2,
+    "_cost": 50,
+    "_e_type": "Tanker",
+    "_attack_time": 0,
+    "_MaxHP": 12,
+    "_CurrentHP": 12,
+    "_RespawnTime": 15
+  },
+  {
+    "id": 103,
+    "_name": "CherryBomb",
+    "_image_name": 3,
+    "_cost": 150,
+    "_e_type": "Bomb",
+    "_attack_time": 5,
+    "_MaxHP": 5,
+    "_CurrentHP": 5,
+    "_RespawnTime": 15
+  },
+  {
+    "id": 104,
+    "_name": "SnowPea",
+    "_image_name": 4,
+    "_cost": 175,
+    "_e_type": "Shooter",
+    "_attack_time": 10,
+    "_MaxHP": 10,
+    "_CurrentHP": 10,
+    "_RespawnTime": 15
+  },
+  {
+    "id": 105,
+    "_name": "RepeaterPea",
+    "_image_name": 5,
+    "_cost": 200,
+    "_e_type": "Shooter",
+    "_attack_time": 10,
+    "_MaxHP": 12,
+    "_CurrentHP": 12,
+    "_RespawnTime": 15
+  }
+]

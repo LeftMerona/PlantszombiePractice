@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile
+  - Plant
+  - Zombie
+  - BackGround
+  - Field
+  - ScrollList
+  - SelectList
+  - Canvas
+  - SUN
+  - Losecondition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Plant
+  - UnityList
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 141851723
+    locked: 0
+  - name: Field
+    uniqueID: 2095435535
+    locked: 0
+  - name: Tile
+    uniqueID: 3426621645
+    locked: 0
+  - name: Bullet
+    uniqueID: 2892492241
+    locked: 0
+  - name: Plant
+    uniqueID: 293337197
+    locked: 0
+  - name: Zombie
+    uniqueID: 1060603023
+    locked: 0
+  - name: Car
+    uniqueID: 39860541
+    locked: 0

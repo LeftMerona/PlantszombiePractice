@@ -1,0 +1,1860 @@
+fileFormatVersion: 2
+guid: 07da7a1ebf465924382226c8a93bd6db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2541628057476563255
+    second: Seed Packets High Resolution_0
+  - first:
+      213: -5385668682965786770
+    second: Seed Packets High Resolution_1
+  - first:
+      213: -556412235795939857
+    second: Seed Packets High Resolution_2
+  - first:
+      213: -7641964091613728908
+    second: Seed Packets High Resolution_3
+  - first:
+      213: 7052609585911549127
+    second: Seed Packets High Resolution_4
+  - first:
+      213: -2433905211848864865
+    second: Seed Packets High Resolution_5
+  - first:
+      213: 7586623382284414480
+    second: Seed Packets High Resolution_6
+  - first:
+      213: -5502908350330253712
+    second: Seed Packets High Resolution_7
+  - first:
+      213: 1737701552428597242
+    second: Seed Packets High Resolution_8
+  - first:
+      213: -2569212815912535014
+    second: Seed Packets High Resolution_9
+  - first:
+      213: 6592320285459236155
+    second: Seed Packets High Resolution_10
+  - first:
+      213: -3376209232597877410
+    second: Seed Packets High Resolution_11
+  - first:
+      213: 2675971106215928710
+    second: Seed Packets High Resolution_12
+  - first:
+      213: -1174661144830859822
+    second: Seed Packets High Resolution_13
+  - first:
+      213: 851956309725134992
+    second: Seed Packets High Resolution_14
+  - first:
+      213: -2595273455835050808
+    second: Seed Packets High Resolution_15
+  - first:
+      213: -4424428073585248999
+    second: Seed Packets High Resolution_16
+  - first:
+      213: -5884645164310326710
+    second: Seed Packets High Resolution_17
+  - first:
+      213: 911513519934943099
+    second: Seed Packets High Resolution_18
+  - first:
+      213: 5859296374952161956
+    second: Seed Packets High Resolution_19
+  - first:
+      213: -7492757639287653976
+    second: Seed Packets High Resolution_20
+  - first:
+      213: 2618698631549620825
+    second: Seed Packets High Resolution_21
+  - first:
+      213: -3149665604240615100
+    second: Seed Packets High Resolution_22
+  - first:
+      213: -8868828842040808243
+    second: Seed Packets High Resolution_23
+  - first:
+      213: 5094122043060110608
+    second: Seed Packets High Resolution_24
+  - first:
+      213: -5951326066541296122
+    second: Seed Packets High Resolution_25
+  - first:
+      213: -6601055818182615545
+    second: Seed Packets High Resolution_26
+  - first:
+      213: -7449265236065452836
+    second: Seed Packets High Resolution_27
+  - first:
+      213: -8187931942054840255
+    second: Seed Packets High Resolution_28
+  - first:
+      213: 4948585821516793251
+    second: Seed Packets High Resolution_29
+  - first:
+      213: -2067881311794670200
+    second: Seed Packets High Resolution_30
+  - first:
+      213: 8246760964467894377
+    second: Seed Packets High Resolution_31
+  - first:
+      213: -7975008311348493792
+    second: Seed Packets High Resolution_32
+  - first:
+      213: -5201675924993306969
+    second: Seed Packets High Resolution_33
+  - first:
+      213: -2558424699829121234
+    second: Seed Packets High Resolution_34
+  - first:
+      213: 8384182018492072129
+    second: Seed Packets High Resolution_35
+  - first:
+      213: -2478260661896137655
+    second: Seed Packets High Resolution_36
+  - first:
+      213: 1984259923039318903
+    second: Seed Packets High Resolution_37
+  - first:
+      213: -3506455900470725460
+    second: Seed Packets High Resolution_38
+  - first:
+      213: 5142223644230059245
+    second: Seed Packets High Resolution_39
+  - first:
+      213: -4192592963538313568
+    second: Seed Packets High Resolution_40
+  - first:
+      213: -1358530913985294331
+    second: Seed Packets High Resolution_41
+  - first:
+      213: -5048290756518081261
+    second: Seed Packets High Resolution_42
+  - first:
+      213: 2097804276501266122
+    second: Seed Packets High Resolution_43
+  - first:
+      213: 6977628633024557441
+    second: Seed Packets High Resolution_44
+  - first:
+      213: 373875925086132267
+    second: Seed Packets High Resolution_45
+  - first:
+      213: 643004639462609999
+    second: Seed Packets High Resolution_46
+  - first:
+      213: -7827163619720468686
+    second: Seed Packets High Resolution_47
+  - first:
+      213: -629600489799575080
+    second: Seed Packets High Resolution_48
+  - first:
+      213: -3030141485988381139
+    second: Seed Packets High Resolution_49
+  - first:
+      213: 4953852753978940257
+    second: Seed Packets High Resolution_50
+  - first:
+      213: 7844231353849176199
+    second: Seed Packets High Resolution_51
+  - first:
+      213: -8594783044158814097
+    second: Seed Packets High Resolution_52
+  - first:
+      213: 2763248348449287426
+    second: Seed Packets High Resolution_53
+  - first:
+      213: -3044189241996117245
+    second: Seed Packets High Resolution_54
+  - first:
+      213: 3997246062101119352
+    second: Seed Packets High Resolution_55
+  - first:
+      213: 7855916205986363116
+    second: Seed Packets High Resolution_56
+  - first:
+      213: -1152976289493934451
+    second: Seed Packets High Resolution_57
+  - first:
+      213: 3621317756861231669
+    second: Seed Packets High Resolution_58
+  - first:
+      213: -2135236959154667789
+    second: Seed Packets High Resolution_59
+  - first:
+      213: -5412627462812768196
+    second: Seed Packets High Resolution_60
+  - first:
+      213: 7289530920140197142
+    second: Seed Packets High Resolution_61
+  - first:
+      213: -8906106648306232346
+    second: Seed Packets High Resolution_62
+  - first:
+      213: -5059057238540316328
+    second: Seed Packets High Resolution_63
+  - first:
+      213: 2654711571063352791
+    second: Seed Packets High Resolution_64
+  - first:
+      213: -9030276098540624073
+    second: Seed Packets High Resolution_65
+  - first:
+      213: 2148735132081497773
+    second: Seed Packets High Resolution_66
+  - first:
+      213: -1366063700004777216
+    second: Seed Packets High Resolution_67
+  - first:
+      213: 3195179511207196498
+    second: Seed Packets High Resolution_68
+  - first:
+      213: 318349249008975253
+    second: Seed Packets High Resolution_69
+  - first:
+      213: -847378657785473110
+    second: Seed Packets High Resolution_70
+  - first:
+      213: -5142585001044603529
+    second: Seed Packets High Resolution_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7318e0d804da54320800000000000000
+      internalID: 2541628057476563255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 583.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd0e90ed24245b0800000000000000
+      internalID: -5385668682965786770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 583.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedb3b0050a3748f0800000000000000
+      internalID: -556412235795939857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 583.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fa215c52a42f590800000000000000
+      internalID: -7641964091613728908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 583.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccc5c35d07efd160800000000000000
+      internalID: 7052609585911549127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 583.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bc6ceea18093ed0800000000000000
+      internalID: -2433905211848864865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 583.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2cb145c9194960800000000000000
+      internalID: 7586623382284414480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 583.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec803d20eb1a3b0800000000000000
+      internalID: -5502908350330253712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affb62eea5e8d1810800000000000000
+      internalID: 1737701552428597242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 511.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf6236e82585cd0800000000000000
+      internalID: -2569212815912535014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 511.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35466c3f50ac7b50800000000000000
+      internalID: 6592320285459236155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 511.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dfb93479b4521d0800000000000000
+      internalID: -3376209232597877410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 511.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683a53f0b85f22520800000000000000
+      internalID: 2675971106215928710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 511.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d527e299e3c2bfe0800000000000000
+      internalID: -1174661144830859822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 511.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c155ffb1c2db00800000000000000
+      internalID: 851956309725134992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_15
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 511.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc83f1da8cbbfbd0800000000000000
+      internalID: -2595273455835050808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9157fa3db164992c0800000000000000
+      internalID: -4424428073585248999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 439.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a421018b66a855ea0800000000000000
+      internalID: -5884645164310326710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 439.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f20bb87b856ac00800000000000000
+      internalID: 911513519934943099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 439.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2f1c65207605150800000000000000
+      internalID: 5859296374952161956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 439.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a93a2a10a0640890800000000000000
+      internalID: -7492757639287653976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_21
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 439.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952115be78c775420800000000000000
+      internalID: 2618698631549620825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_22
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 439.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d8f112d32a44d0800000000000000
+      internalID: -3149665604240615100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_23
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 439.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2b6048279be480800000000000000
+      internalID: -8868828842040808243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015c5132205f1b640800000000000000
+      internalID: 5094122043060110608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 367.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60688455974a86da0800000000000000
+      internalID: -5951326066541296122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 367.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e13be05b65464a0800000000000000
+      internalID: -6601055818182615545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 367.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcf6a65cb4ee9890800000000000000
+      internalID: -7449265236065452836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 367.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483fbcb74f9e5e80800000000000000
+      internalID: -8187931942054840255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 367.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a50b000698eca440800000000000000
+      internalID: 4948585821516793251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_30
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 367.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8855fcc27e86d43e0800000000000000
+      internalID: -2067881311794670200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_31
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 367.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968aaaa6761627270800000000000000
+      internalID: 8246760964467894377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0220949b134135190800000000000000
+      internalID: -7975008311348493792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 295.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae821e4e4fefc7b0800000000000000
+      internalID: -5201675924993306969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 295.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f89166a46ae7cd0800000000000000
+      internalID: -2558424699829121234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 295.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c00070ef199a5470800000000000000
+      internalID: 8384182018492072129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_36
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 295.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9443bd2fe037b9dd0800000000000000
+      internalID: -2478260661896137655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 295.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7737dce03e1898b10800000000000000
+      internalID: 1984259923039318903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_38
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 295.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4bedfbfe0965fc0800000000000000
+      internalID: -3506455900470725460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_39
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 295.1111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de482f5e829dc5740800000000000000
+      internalID: 5142223644230059245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae1f78b9eae0d5c0800000000000000
+      internalID: -4192592963538313568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 223.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500158fd457852de0800000000000000
+      internalID: -1358530913985294331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_42
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 223.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d0adecd4ed0f9b0800000000000000
+      internalID: -5048290756518081261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_43
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 223.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace3725ffd5ec1d10800000000000000
+      internalID: 2097804276501266122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_44
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 223.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f50ec54485d060800000000000000
+      internalID: 6977628633024557441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_45
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 223.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2854d84c26403500800000000000000
+      internalID: 373875925086132267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_46
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 223.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44d81410596ce800800000000000000
+      internalID: 643004639462609999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_47
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 223.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23763bf6824506390800000000000000
+      internalID: -7827163619720468686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d99517b0b53347f0800000000000000
+      internalID: -629600489799575080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 151.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2efc747f56c2f5d0800000000000000
+      internalID: -3030141485988381139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_50
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 151.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b518645de9fb440800000000000000
+      internalID: 4953852753978940257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_51
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 151.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78069261bde4cdc60800000000000000
+      internalID: 7844231353849176199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_52
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 151.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f680d53cb5239b880800000000000000
+      internalID: -8594783044158814097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_53
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 151.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d218b8bb7095620800000000000000
+      internalID: 2763248348449287426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_54
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 151.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b71c1630ed0c5d0800000000000000
+      internalID: -3044189241996117245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_55
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 151.11111
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871cd5b7d12197730800000000000000
+      internalID: 3997246062101119352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79.111115
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce63d0bba22d50d60800000000000000
+      internalID: 7855916205986363116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79.111115
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e14466c2ecfffe0800000000000000
+      internalID: -1152976289493934451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_58
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 79.111115
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53237843051814230800000000000000
+      internalID: 3621317756861231669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_59
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 79.111115
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fefc427c4d1e52e0800000000000000
+      internalID: -2135236959154667789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_60
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 79.111115
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c386589fffb72e4b0800000000000000
+      internalID: -5412627462812768196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_61
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 79.111115
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dce2210cd992560800000000000000
+      internalID: 7289530920140197142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_62
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 79.111115
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e356ff9037276480800000000000000
+      internalID: -8906106648306232346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_63
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 79.111115
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8519f6ede3e9ac9b0800000000000000
+      internalID: -5059057238540316328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 116
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dda95ecb1e67d420800000000000000
+      internalID: 2654711571063352791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 7.1111145
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73729ca9bb30ea280800000000000000
+      internalID: -9030276098540624073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_66
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 7.1111145
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ae18d737d1dd10800000000000000
+      internalID: 2148735132081497773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_67
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 7.1111145
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003d8a47d44ca0de0800000000000000
+      internalID: -1366063700004777216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_68
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 7.1111145
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2577c1f26de875c20800000000000000
+      internalID: 3195179511207196498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_69
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 7.1111145
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d31bd84f00b6400800000000000000
+      internalID: 318349249008975253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_70
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 7.1111145
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa71370b9918d34f0800000000000000
+      internalID: -847378657785473110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Packets High Resolution_71
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 7.1111145
+        width: 111.25
+        height: 72.888885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d0c79203ed1a8b0800000000000000
+      internalID: -5142585001044603529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
